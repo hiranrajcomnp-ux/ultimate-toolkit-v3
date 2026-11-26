@@ -1,6 +1,6 @@
 # Ultimate Toolkit V3
 
-**By Bhaskar**
+**By Vaskar**
 
 A graphical Windows administration and troubleshooting toolkit built using Batch scripting and PowerShell.
 
